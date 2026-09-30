@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Raw/private competition material
+videos/
+data/raw/
+data/private/
+resultados_revision_individual/
+
+# Generated local outputs
+outputs/*
+!outputs/README.md
